@@ -1,0 +1,284 @@
+TEAM_ID,SEASON,COACH_ID,FIRST_NAME,LAST_NAME,COACH_NAME,IS_ASSISTANT,COACH_TYPE,SORT_SEQUENCE,SUB_SORT_SEQUENCE,TEAM_NAME
+1610612737,2025,202439,Quin,Snyder,Quin Snyder,1,Head Coach,,1,Atlanta Hawks
+1610612737,2025,203753,Ronald,Nored,Ronald Nored,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,204238,Antonio,Lang,Antonio Lang,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1626233,Jeff,Watkinson,Jeff Watkinson,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,2166,Igor,Kokoskov,Igor Kokoskov,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,202327,Ekpe,Udoh,Ekpe Udoh,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1628216,Bryan,Bailey,Bryan Bailey,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1628852,Ryan,Schmidt,Ryan Schmidt,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1629239,Sanjay,Lumpkin,Sanjay Lumpkin,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1629822,Brittni,Donaldson,Brittni Donaldson,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1641826,Mike,Brey,Mike Brey,2,Assistant Coach,,5,Atlanta Hawks
+1610612737,2025,1627352,Reggis,Onwukamuche,Reggis Onwukamuche,12,Assistant Coach for Player Development,,6,Atlanta Hawks
+1610612737,2025,1628764,Scottie,Parker,Scottie Parker,3,Trainer,,7,Atlanta Hawks
+1610612737,2025,1630017,John,Dusel,John Dusel,4,Assistant Trainer,,8,Atlanta Hawks
+1610612738,2025,1628210,Joe,Mazzulla,Joe Mazzulla,1,Head Coach,,1,Boston Celtics
+1610612738,2025,1628518,Amile,Jefferson,Amile Jefferson,2,Assistant Coach,,5,Boston Celtics
+1610612738,2025,1642082,D.J.,MacLeay,D.J. MacLeay,2,Assistant Coach,,5,Boston Celtics
+1610612738,2025,1642083,Matt,Reynolds,Matt Reynolds,2,Assistant Coach,,5,Boston Celtics
+1610612738,2025,200474,Tony,Dobbins,Tony Dobbins,2,Assistant Coach,,5,Boston Celtics
+1610612738,2025,202108,Sam,Cassell,Sam Cassell,2,Assistant Coach,,5,Boston Celtics
+1610612738,2025,1643346,Drew,Moore,Drew Moore,3,Trainer,,7,Boston Celtics
+1610612739,2025,201690,Kenny,Atkinson,Kenny Atkinson,1,Head Coach,,1,Cleveland Cavaliers
+1610612739,2025,204008,Johnnie,Bryant,Johnnie Bryant,9,Associate Head Coach,,2,Cleveland Cavaliers
+1610612739,2025,202565,Mike,Gerrity,Mike Gerrity,2,Assistant Coach,,5,Cleveland Cavaliers
+1610612739,2025,1630041,Bryan,Tibaldi,Bryan Tibaldi,2,Assistant Coach,,5,Cleveland Cavaliers
+1610612739,2025,1631326,Trevor,Hendry,Trevor Hendry,2,Assistant Coach,,5,Cleveland Cavaliers
+1610612739,2025,1642529,Nate,Reinking,Nate Reinking,2,Assistant Coach,,5,Cleveland Cavaliers
+1610612739,2025,204286,Stephen,Spiro,Stephen Spiro,3,Trainer,,7,Cleveland Cavaliers
+1610612740,2025,1628228,Willie,Green,Willie Green,1,Head Coach,,1,New Orleans Pelicans
+1610612740,2025,202435,James,Borrego,James Borrego,9,Associate Head Coach,1.0,2,New Orleans Pelicans
+1610612740,2025,204239,Jarron,Collins,Jarron Collins,2,Assistant Coach,2.0,5,New Orleans Pelicans
+1610612740,2025,203243,Casey,Hill,Casey Hill,2,Assistant Coach,3.0,5,New Orleans Pelicans
+1610612740,2025,101223,Aaron,Miles,Aaron Miles,2,Assistant Coach,4.0,5,New Orleans Pelicans
+1610612740,2025,201147,Corey,Brewer,Corey Brewer,2,Assistant Coach,5.0,5,New Orleans Pelicans
+1610612740,2025,201975,Jodie,Meeks,Jodie Meeks,2,Assistant Coach,6.0,5,New Orleans Pelicans
+1610612740,2025,1630382,Tom,Maystadt,Tom Maystadt,3,Trainer,,7,New Orleans Pelicans
+1610612741,2025,1627310,Billy,Donovan,Billy Donovan,1,Head Coach,,1,Chicago Bulls
+1610612741,2025,1627637,Henry,Domercant,Henry Domercant,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,1628804,Damian,Cotter,Damian Cotter,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,1018,Wes,Unseld,Wes Unseld,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,202743,John,Bryant,John Bryant,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,203599,Dan,Craig,Dan Craig,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,1630925,Billy,Schmidt,Billy Schmidt,2,Assistant Coach,,5,Chicago Bulls
+1610612741,2025,1629432,Todd,Campbell,Todd Campbell,3,Trainer,,7,Chicago Bulls
+1610612742,2025,203456,Jason,Kidd,Jason Kidd,1,Head Coach,,1,Dallas Mavericks
+1610612742,2025,2345,Frank,Vogel,Frank Vogel,2,Assistant Coach,1.0,5,Dallas Mavericks
+1610612742,2025,2472,Jay,Triano,Jay Triano,2,Assistant Coach,2.0,5,Dallas Mavericks
+1610612742,2025,202434,Popeye,Jones,Popeye Jones,2,Assistant Coach,3.0,5,Dallas Mavericks
+1610612742,2025,203597,Phil,Handy,Phil Handy,2,Assistant Coach,4.0,5,Dallas Mavericks
+1610612742,2025,2130,Mike,Penberthy,Mike Penberthy,2,Assistant Coach,5.0,5,Dallas Mavericks
+1610612742,2025,202102,Eric,Hughes,Eric Hughes,2,Assistant Coach,6.0,5,Dallas Mavericks
+1610612742,2025,1641949,Josh,Broghamer,Josh Broghamer,2,Assistant Coach,7.0,5,Dallas Mavericks
+1610612742,2025,1630772,Dru,Anthrop,Dru Anthrop,2,Assistant Coach,8.0,5,Dallas Mavericks
+1610612742,2025,1642171,Keith,Veney,Keith Veney,2,Assistant Coach,9.0,5,Dallas Mavericks
+1610612742,2025,1642162,Jordan,Sears,Jordan Sears,2,Assistant Coach,10.0,5,Dallas Mavericks
+1610612742,2025,1630033,Jana,Austin,Jana Austin,3,Trainer,,7,Dallas Mavericks
+1610612743,2025,203600,David,Adelman,David Adelman,1,Head Coach,,1,Denver Nuggets
+1610612743,2025,201162,Jared,Dudley,Jared Dudley,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,203391,Ryan,Bowen,Ryan Bowen,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,1628791,Chase,Buford,Chase Buford,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,1630491,John,Beckett,John Beckett,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,1630932,Ognjen,Stojakovic,Ognjen Stojakovic,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,1641545,Elvis,Valcarcel,Elvis Valcarcel,2,Assistant Coach,,5,Denver Nuggets
+1610612743,2025,1627167,Dan,Shimensky,Dan Shimensky,3,Trainer,,7,Denver Nuggets
+1610612744,2025,204005,Steve,Kerr,Steve Kerr,1,Head Coach,,1,Golden State Warriors
+1610612744,2025,204260,Bruce,Fraser,Bruce Fraser,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1627330,Seth,Cooper,Seth Cooper,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1627666,Chris,DeMarco,Chris DeMarco,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,711,Jerry,Stackhouse,Jerry Stackhouse,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1337,Terry,Stotts,Terry Stotts,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1796,Ron,Adams,Ron Adams,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,202805,Anthony,Vereen,Anthony Vereen,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1628831,Kris,Weems,Kris Weems,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1630857,Dejan,Milojevic,Dejan Milojevic,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1630858,Jacob,Rubin,Jacob Rubin,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1630893,Nick,Kerr,Nick Kerr,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1642718,Khalid,Robinson,Khalid Robinson,2,Assistant Coach,,5,Golden State Warriors
+1610612744,2025,1628227,Drew,Yoder,Drew Yoder,3,Trainer,,7,Golden State Warriors
+1610612745,2025,203152,Ime,Udoka,Ime Udoka,1,Head Coach,,1,Houston Rockets
+1610612745,2025,204224,Ben,Sullivan,Ben Sullivan,2,Assistant Coach,,5,Houston Rockets
+1610612745,2025,1628179,Royal,Ivey,Royal Ivey,2,Assistant Coach,,5,Houston Rockets
+1610612745,2025,1641967,Garrett,Jackson,Garrett Jackson,2,Assistant Coach,,5,Houston Rockets
+1610612745,2025,1641968,Cam,Hodges,Cam Hodges,2,Assistant Coach,,5,Houston Rockets
+1610612745,2025,1641969,Mike,Moser,Mike Moser,2,Assistant Coach,,5,Houston Rockets
+1610612745,2025,202431,Jason,Biles,Jason Biles,3,Trainer,,7,Houston Rockets
+1610612746,2025,202978,Tyronn,Lue,Tyronn Lue,1,Head Coach,,1,Los Angeles Clippers
+1610612746,2025,1297,Jeff,Van Gundy,Jeff Van Gundy,13,Lead Assistant Coach,,4,Los Angeles Clippers
+1610612746,2025,2563,Dahntay,Jones,Dahntay Jones,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,2888,Brian,Shaw,Brian Shaw,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,203168,Jay,Larranaga,Jay Larranaga,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1627546,Shaun,Fein,Shaun Fein,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1630361,Jeremy,Castleberry,Jeremy Castleberry,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1630370,Chris,Holguin,Chris Holguin,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1642174,Tim,Dather,Tim Dather,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1643275,Conor,Dunleavy,Conor Dunleavy,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,1271,Larry,Drew,Larry Drew,2,Assistant Coach,,5,Los Angeles Clippers
+1610612746,2025,2010,Jasen,Powell,Jasen Powell,3,Trainer,,7,Los Angeles Clippers
+1610612747,2025,200755,JJ,Redick,JJ Redick,1,Head Coach,,1,Los Angeles Lakers
+1610612747,2025,1778,Nate,McMillan,Nate McMillan,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,2623,Scott,Brooks,Scott Brooks,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,2630,Bob,Beyer,Bob Beyer,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,1641508,Greg,St. Jean,Greg St. Jean,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,1642161,Lindsey,Harding,Lindsey Harding,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,1642582,Beau,Levesque,Beau Levesque,2,Assistant Coach,,5,Los Angeles Lakers
+1610612747,2025,1630035,Vanessa,Brooks,Vanessa Brooks,3,Trainer,,7,Los Angeles Lakers
+1610612748,2025,1787,Erik,Spoelstra,Erik Spoelstra,1,Head Coach,,1,Miami Heat
+1610612748,2025,2406,Caron,Butler,Caron Butler,2,Assistant Coach,,5,Miami Heat
+1610612748,2025,201961,Wayne,Ellington,Wayne Ellington,2,Assistant Coach,,5,Miami Heat
+1610612748,2025,204226,Chris,Quinn,Chris Quinn,2,Assistant Coach,,5,Miami Heat
+1610612748,2025,204229,Malik,Allen,Malik Allen,2,Assistant Coach,,5,Miami Heat
+1610612748,2025,1629855,Eric,Glass,Eric Glass,2,Assistant Coach,,5,Miami Heat
+1610612748,2025,201682,Octavio,De La Grana,Octavio De La Grana,12,Assistant Coach for Player Development,,6,Miami Heat
+1610612748,2025,1641507,Wes,Brown,Wes Brown,3,Trainer,,7,Miami Heat
+1610612749,2025,1941,Doc,Rivers,Doc Rivers,1,Head Coach,,1,Milwaukee Bucks
+1610612749,2025,201220,David,Joerger,David Joerger,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,452,Vin,Baker,Vin Baker,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,1672,Rex,Kalamian,Rex Kalamian,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,203005,Darvin,Ham,Darvin Ham,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,203811,Greg,Buckner,Greg Buckner,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,1627150,Jason,Love,Jason Love,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,1642209,Pete,Dominguez,Pete Dominguez,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,1642464,Spencer,Rivers,Spencer Rivers,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,1642467,Jack,Herum,Jack Herum,2,Assistant Coach,,5,Milwaukee Bucks
+1610612749,2025,201692,Scott,Faust,Scott Faust,3,Trainer,,7,Milwaukee Bucks
+1610612750,2025,202896,Chris,Finch,Chris Finch,1,Head Coach,,1,Minnesota Timberwolves
+1610612750,2025,203143,Pablo,Prigioni,Pablo Prigioni,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,204160,Chris,Hines,Chris Hines,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,204235,Kevin,Hanson,Kevin Hanson,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,1630866,Jeff,Newton,Jeff Newton,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,1340,Elston,Turner,Elston Turner,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,202101,Micah,Nori,Micah Nori,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,1642604,Max,Lefevre,Max Lefevre,2,Assistant Coach,,5,Minnesota Timberwolves
+1610612750,2025,2146,Gregg,Farnam,Gregg Farnam,3,Trainer,,7,Minnesota Timberwolves
+1610612750,2025,1642603,Erin,Sierer,Erin Sierer,3,Trainer,,7,Minnesota Timberwolves
+1610612751,2025,203759,Jordi,Fernandez,Jordi Fernandez,1,Head Coach,,1,Brooklyn Nets
+1610612751,2025,204004,Steve,Hetzel,Steve Hetzel,2,Assistant Coach,1.0,5,Brooklyn Nets
+1610612751,2025,203598,Juwan,Howard,Juwan Howard,2,Assistant Coach,2.0,5,Brooklyn Nets
+1610612751,2025,204035,Jay,Hernandez,Jay Hernandez,2,Assistant Coach,3.0,5,Brooklyn Nets
+1610612751,2025,1630918,Dutch,Gaitley,Dutch Gaitley,2,Assistant Coach,4.0,5,Brooklyn Nets
+1610612751,2025,1630871,Deividas,Dulkys,Deividas Dulkys,2,Assistant Coach,5.0,5,Brooklyn Nets
+1610612751,2025,1628803,Ryan,Forehan-Kelly,Ryan Forehan-Kelly,2,Assistant Coach,6.0,5,Brooklyn Nets
+1610612751,2025,1642410,Connor,Griffin,Connor Griffin,2,Assistant Coach,7.0,5,Brooklyn Nets
+1610612751,2025,1641843,Corey,Vinson,Corey Vinson,2,Assistant Coach,8.0,5,Brooklyn Nets
+1610612751,2025,204293,Travis,Bader,Travis Bader,2,Assistant Coach,9.0,5,Brooklyn Nets
+1610612752,2025,1658,Mike,Brown,Mike Brown,1,Head Coach,,1,New York Knicks
+1610612752,2025,2519,Andy,Greer,Andy Greer,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,2607,Chris,Jent,Chris Jent,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,2814,Brendan,O'Connor,Brendan O'Connor,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,101173,Mark,Bryant,Mark Bryant,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,202426,Rick,Brunson,Rick Brunson,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,203375,Darren,Erman,Darren Erman,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,1629842,TJ,Saint,TJ Saint,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,1312,Maurice,Cheeks,Maurice Cheeks,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,1642717,Riccardo,Fois,Riccardo Fois,2,Assistant Coach,,5,New York Knicks
+1610612752,2025,1630689,Dice,Yoshimoto,Dice Yoshimoto,12,Assistant Coach for Player Development,,6,New York Knicks
+1610612752,2025,101269,Anthony,Goenaga,Anthony Goenaga,3,Trainer,,7,New York Knicks
+1610612752,2025,1370,Roger,Hinds,Roger Hinds,3,Trainer,,7,New York Knicks
+1610612753,2025,202427,Jamahl,Mosley,Jamahl Mosley,1,Head Coach,,1,Orlando Magic
+1610612753,2025,203170,Dale,Osbourne,Dale Osbourne,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,203596,Bret,Brielmaier,Bret Brielmaier,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,1642713,Randy,Gregory,Randy Gregory,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,1539,God,Shammgod,God Shammgod,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,2763,Lionel,Chalmers,Lionel Chalmers,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,101206,Joe,Prunty,Joe Prunty,2,Assistant Coach,,5,Orlando Magic
+1610612753,2025,2720,Ernest,Eugene,Ernest Eugene,3,Trainer,,7,Orlando Magic
+1610612754,2025,1320,Rick,Carlisle,Rick Carlisle,1,Head Coach,,1,Indiana Pacers
+1610612754,2025,202603,Lloyd,Pierce,Lloyd Pierce,13,Lead Assistant Coach,,4,Indiana Pacers
+1610612754,2025,1256,Jim,Boylen,Jim Boylen,2,Assistant Coach,,5,Indiana Pacers
+1610612754,2025,1643326,Johnny,Carpenter,Johnny Carpenter,2,Assistant Coach,,5,Indiana Pacers
+1610612754,2025,100616,Jenny,Boucek,Jenny Boucek,2,Assistant Coach,,5,Indiana Pacers
+1610612754,2025,2457,Jannero,Pargo,Jannero Pargo,12,Assistant Coach for Player Development,,6,Indiana Pacers
+1610612754,2025,2486,Maurice,Baker,Maurice Baker,12,Assistant Coach for Player Development,,6,Indiana Pacers
+1610612754,2025,1641950,Isaac,Yacob,Isaac Yacob,12,Assistant Coach for Player Development,,6,Indiana Pacers
+1610612754,2025,101200,Josh,Corbeil,Josh Corbeil,3,Trainer,,7,Indiana Pacers
+1610612754,2025,201675,Carl,Eaton,Carl Eaton,4,Assistant Trainer,,8,Indiana Pacers
+1610612755,2025,203606,Nick,Nurse,Nick Nurse,1,Head Coach,,1,Philadelphia 76ers
+1610612755,2025,1627971,Rico,Hines,Rico Hines,2,Assistant Coach,,5,Philadelphia 76ers
+1610612755,2025,201207,Coby,Karl,Coby Karl,2,Assistant Coach,,5,Philadelphia 76ers
+1610612755,2025,202109,Bryan,Gates,Bryan Gates,2,Assistant Coach,,5,Philadelphia 76ers
+1610612755,2025,203241,Matt,Brase,Matt Brase,2,Assistant Coach,,5,Philadelphia 76ers
+1610612755,2025,203242,Doug,West,Doug West,2,Assistant Coach,,5,Philadelphia 76ers
+1610612755,2025,1360,Kevin,Johnson,Kevin Johnson,3,Trainer,,7,Philadelphia 76ers
+1610612756,2025,1627877,Jordan,Ott,Jordan Ott,1,Head Coach,,1,Phoenix Suns
+1610612756,2025,1627319,Roger,Sancho,Roger Sancho,3,Trainer,,7,Phoenix Suns
+1610612757,2025,1497,Chauncey,Billups,Chauncey Billups,1,Head Coach,,1,Portland Trail Blazers
+1610612757,2025,201168,Tiago,Splitter,Tiago Splitter,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,201765,Nate,Bjorkgren,Nate Bjorkgren,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,204023,James,Posey,James Posey,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,1628784,Pat,St. Andrews,Pat St. Andrews,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,1629748,Quinton,Crawford,Quinton Crawford,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,1629850,Ronnie,Burrell,Ronnie Burrell,2,Assistant Coach,,5,Portland Trail Blazers
+1610612757,2025,1629039,Jessica,Cohen,Jessica Cohen,3,Trainer,,7,Portland Trail Blazers
+1610612757,2025,201398,Courtney,Watson,Courtney Watson,3,Trainer,,7,Portland Trail Blazers
+1610612757,2025,101272,Geoff,Clark,Geoff Clark,3,Trainer,,7,Portland Trail Blazers
+1610612758,2025,57,Doug,Christie,Doug Christie,1,Head Coach,,1,Sacramento Kings
+1610612758,2025,1285,Mike,Woodson,Mike Woodson,9,Associate Head Coach,,2,Sacramento Kings
+1610612758,2025,2571,Leandro,Barbosa,Leandro Barbosa,2,Assistant Coach,,5,Sacramento Kings
+1610612758,2025,202985,Bobby,Jackson,Bobby Jackson,2,Assistant Coach,,5,Sacramento Kings
+1610612758,2025,203758,Mike,Miller,Mike Miller,2,Assistant Coach,,5,Sacramento Kings
+1610612758,2025,1630739,Chris,Darnell,Chris Darnell,2,Assistant Coach,,5,Sacramento Kings
+1610612758,2025,1643281,Dipesh,Mistry,Dipesh Mistry,2,Assistant Coach,,5,Sacramento Kings
+1610612758,2025,1643282,Garrius,Adams,Garrius Adams,12,Assistant Coach for Player Development,,6,Sacramento Kings
+1610612758,2025,1630875,Jimmy,Alapag,Jimmy Alapag,12,Assistant Coach for Player Development,,6,Sacramento Kings
+1610612758,2025,1642716,Joel,Noland,Joel Noland,3,Trainer,,7,Sacramento Kings
+1610612758,2025,1643283,Ernie,DeLosAngeles,Ernie DeLosAngeles,5,Strength and Conditioning Coach,,8,Sacramento Kings
+1610612758,2025,1641538,DJ,Ham,DJ Ham,10,Director of Athletic Development,,8,Sacramento Kings
+1610612759,2025,1628188,Mitch,Johnson,Mitch Johnson,1,Head Coach,,1,San Antonio Spurs
+1610612759,2025,204085,Sean,Sweeney,Sean Sweeney,9,Associate Head Coach,,2,San Antonio Spurs
+1610612759,2025,722,Corliss,Williamson,Corliss Williamson,2,Assistant Coach,,5,San Antonio Spurs
+1610612759,2025,1629773,Matt,Nielsen,Matt Nielsen,2,Assistant Coach,,5,San Antonio Spurs
+1610612759,2025,1642720,Scott,King,Scott King,2,Assistant Coach,,5,San Antonio Spurs
+1610612759,2025,1643166,Mike,Noyes,Mike Noyes,2,Assistant Coach,,5,San Antonio Spurs
+1610612759,2025,1264,Will,Sevening,Will Sevening,3,Trainer,,7,San Antonio Spurs
+1610612760,2025,1627327,Mark,Daigneault,Mark Daigneault,1,Head Coach,,1,Oklahoma City Thunder
+1610612760,2025,1627380,Kameron,Woods,Kameron Woods,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,1628817,Grant,Gibbs,Grant Gibbs,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,2366,Mike,Wilks,Mike Wilks,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,2887,Chip,Engelland,Chip Engelland,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,201953,Eric,Maynor,Eric Maynor,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,202859,David,Akinyooye,David Akinyooye,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,1629758,Dave,Bliss,Dave Bliss,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,1643347,Zoe,Vernon,Zoe Vernon,2,Assistant Coach,,5,Oklahoma City Thunder
+1610612760,2025,1629170,Connor,Johnson,Connor Johnson,12,Assistant Coach for Player Development,,6,Oklahoma City Thunder
+1610612760,2025,1629423,Donnie,Strack,Donnie Strack,3,Trainer,,7,Oklahoma City Thunder
+1610612761,2025,204011,Darko,Rajakovic,Darko Rajakovic,1,Head Coach,,1,Toronto Raptors
+1610612761,2025,204013,Pat,Delany,Pat Delany,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,1627341,Mike,Batiste,Mike Batiste,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,1628178,Vin,Bhavnani,Vin Bhavnani,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,2631,Jim,Sann,Jim Sann,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,203454,James,Wade,James Wade,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,203604,Jama,Mahlalela,Jama Mahlalela,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,1629841,Mery,Andreade,Mery Andreade,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,1641954,Ivo,Simovic,Ivo Simovic,2,Assistant Coach,,5,Toronto Raptors
+1610612761,2025,1628819,Rayhan,Malik,Rayhan Malik,3,Trainer,,7,Toronto Raptors
+1610612762,2025,1628181,Will,Hardy,Will Hardy,1,Head Coach,,1,Utah Jazz
+1610612762,2025,1628812,Evan,Bradds,Evan Bradds,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1630277,Rick,Higgins,Rick Higgins,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1630737,Mike,Williams,Mike Williams,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1631327,Sean,Sheldon,Sean Sheldon,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1891,Jason,Terry,Jason Terry,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1627329,Scott,Morrison,Scott Morrison,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1642136,Chris,Jones,Chris Jones,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1642719,Andrew,Warren,Andrew Warren,2,Assistant Coach,,5,Utah Jazz
+1610612762,2025,1641644,Jamal,Cort,Jamal Cort,3,Trainer,,7,Utah Jazz
+1610612763,2025,1642453,Tuomas,Iisalo,Tuomas Iisalo,1,Head Coach,,1,Memphis Grizzlies
+1610612763,2025,1642455,Erik,Schmidt,Erik Schmidt,2,Assistant Coach,,5,Memphis Grizzlies
+1610612763,2025,202175,Darnell,Lazare,Darnell Lazare,2,Assistant Coach,,5,Memphis Grizzlies
+1610612763,2025,202443,Ryan,Saunders,Ryan Saunders,2,Assistant Coach,,5,Memphis Grizzlies
+1610612763,2025,204086,Jason,March,Jason March,2,Assistant Coach,,5,Memphis Grizzlies
+1610612763,2025,200942,Brian,Collins,Brian Collins,12,Assistant Coach for Player Development,,6,Memphis Grizzlies
+1610612763,2025,1630018,Eric,Oetter,Eric Oetter,3,Trainer,,7,Memphis Grizzlies
+1610612764,2025,201449,Brian,Keefe,Brian Keefe,1,Head Coach,,1,Washington Wizards
+1610612764,2025,201582,Alexis,Ajinca,Alexis Ajinca,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,203150,David,Vanterpool,David Vanterpool,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,1629160,J.J.,Outlaw,J.J. Outlaw,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,1629427,Brian,Randle,Brian Randle,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,1630867,Adam,Caporn,Adam Caporn,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,1642662,T.J.,Sorrentine,T.J. Sorrentine,2,Assistant Coach,,5,Washington Wizards
+1610612764,2025,1628818,Michael,Ashton,Michael Ashton,3,Trainer,,7,Washington Wizards
+1610612765,2025,2794,J.B.,Bickerstaff,J.B. Bickerstaff,1,Head Coach,,1,Detroit Pistons
+1610612765,2025,101127,Jarrett,Jack,Jarrett Jack,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,201676,Fred,Vinson,Fred Vinson,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,202433,Vitaly,Potapenko,Vitaly Potapenko,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,203779,Steve,Scalzi,Steve Scalzi,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,204012,Luke,Walton,Luke Walton,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1627590,Jerome,Allen,Jerome Allen,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1628772,Kevin,Burleson,Kevin Burleson,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1226,Sidney,Lowe,Sidney Lowe,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1642601,Greg,Smith,Greg Smith,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1642602,Josh,Estes,Josh Estes,2,Assistant Coach,,5,Detroit Pistons
+1610612765,2025,1642131,Alex,Garland,Alex Garland,3,Trainer,,7,Detroit Pistons
+1610612765,2025,1629143,Jordan,Sabourin,Jordan Sabourin,5,Strength and Conditioning Coach,,8,Detroit Pistons
+1610612766,2025,204225,Charles,Lee,Charles Lee,1,Head Coach,,1,Charlotte Hornets
+1610612766,2025,1628770,Matt,Hill,Matt Hill,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1641565,Blaine,Mueller,Blaine Mueller,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1642456,Jermaine,Bucknor,Jermaine Bucknor,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1643203,Kyle,Neptune,Kyle Neptune,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1630281,Lamar,Skeeter,Lamar Skeeter,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1630455,Zach,Peterson,Zach Peterson,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1630921,Ryan,Frazier,Ryan Frazier,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,204031,Joshua,Longstaff,Joshua Longstaff,2,Assistant Coach,,5,Charlotte Hornets
+1610612766,2025,1641560,Patrick,Chasse,Patrick Chasse,3,Trainer,,7,Charlotte Hornets
+1610612766,2025,1628794,Peter,Elliott,Peter Elliott,3,Trainer,,7,Charlotte Hornets

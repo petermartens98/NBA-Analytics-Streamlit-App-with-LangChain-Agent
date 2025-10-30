@@ -1,0 +1,9 @@
+streamlit
+beautifulsoup4
+pandas
+nba_api
+plotly
+matplotlib
+langchain 
+langchain-openai 
+langchain-community
