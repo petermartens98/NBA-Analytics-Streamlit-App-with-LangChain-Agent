@@ -108,11 +108,32 @@ streamlit run streamlit_app.py
 
 
 #### Teams Tab
+<img width="1519" height="879" alt="image" src="https://github.com/user-attachments/assets/debf7ac9-e071-46a9-a874-5ee5f6e3092b" />
+<img width="1490" height="1267" alt="image" src="https://github.com/user-attachments/assets/4551e6a3-f2c9-464b-92b5-cb82f8ef3dc7" />
+<img width="1539" height="970" alt="image" src="https://github.com/user-attachments/assets/e49ff181-dbf7-4637-b470-687c1f4c4aa2" />
+<img width="1485" height="1109" alt="image" src="https://github.com/user-attachments/assets/252e14e5-6770-4f9d-8d61-e003de8c2c64" />
+<img width="1523" height="607" alt="image" src="https://github.com/user-attachments/assets/9edd3c8e-912b-4f13-918a-9bbbe274a4ca" />
+<img width="1540" height="1148" alt="image" src="https://github.com/user-attachments/assets/a9050f68-2bd4-4e9f-8362-22418b2a5558" />
+<img width="1528" height="955" alt="image" src="https://github.com/user-attachments/assets/ce53f416-0c2c-44f6-b9ed-4729b1ae0fa1" />
+<img width="1524" height="1008" alt="image" src="https://github.com/user-attachments/assets/7669034a-4e7b-4947-b998-54458cde5f29" />
+<img width="1352" height="1090" alt="image" src="https://github.com/user-attachments/assets/4ef83a21-972e-4203-a56f-b51e399127b3" />
+<img width="1374" height="239" alt="image" src="https://github.com/user-attachments/assets/0352bdaa-0d65-4e84-afea-16107e866829" />
+
 
 #### Single Team Tab
+<img width="1374" height="809" alt="image" src="https://github.com/user-attachments/assets/2d889e1a-b7cc-4419-8c6d-fe13a56b3626" />
+<img width="1369" height="758" alt="image" src="https://github.com/user-attachments/assets/d3e36704-8eab-45e1-a3f4-3f57bf5e1b75" />
+<img width="1369" height="669" alt="image" src="https://github.com/user-attachments/assets/4a3b5b12-5f1f-4679-b0de-4bd5b09e9ac9" />
+<img width="1392" height="772" alt="image" src="https://github.com/user-attachments/assets/0a8dae94-8fb5-4654-b96d-3c72a21411ed" />
+<img width="1373" height="343" alt="image" src="https://github.com/user-attachments/assets/26c66f4e-8296-495d-a6b0-2ca0d3eea685" />
+<img width="1378" height="930" alt="image" src="https://github.com/user-attachments/assets/a28b77c4-3dfe-4f40-b9b8-69b82a8f52e7" />
 
 #### Simulation Tab
+<img width="1387" height="1106" alt="image" src="https://github.com/user-attachments/assets/529fbc70-dc54-4318-a9a4-2ffbbcab69a1" />
+<img width="1359" height="1265" alt="image" src="https://github.com/user-attachments/assets/055e5ada-c0f7-49b3-b667-1b18b1df1560" />
 
 #### Chat Tab
+<img width="1399" height="1017" alt="image" src="https://github.com/user-attachments/assets/bf74cacf-13ca-463f-87b8-5bb0fa893c3a" />
 
 ---
+
